@@ -21,7 +21,7 @@ function consume(num1,num2, cb){
 function add(num1,num2){
   return num1 + num2;
 }
-function multiply(num1,num2, ){
+function multiply(num1,num2){
   return num1 * num2;
 }
 function greeting(first, last){
